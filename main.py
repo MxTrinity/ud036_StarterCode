@@ -1,7 +1,7 @@
 import fresh_tomatoes
 import media
+
 #begin movie definitions here
-#matrix = media.Movie()
 matrix = media.Movie("The Matrix",
          "Neo, searching to find out what \"the Matrix\" is, searches for a man named Morpheus and falls down a dangerous rabbithole",
          "https://upload.wikimedia.org/wikipedia/en/c/c1/The_Matrix_Poster.jpg",
